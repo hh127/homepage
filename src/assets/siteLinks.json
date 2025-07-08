@@ -1,11 +1,11 @@
 [
   {
-    "icon": "Blog",
+    "icon": "MdPhotos",
     "name": "相册",
     "link": "https://gallery.mrlining.cn/"
   },
   {
-    "icon": "Cloud",
+    "icon": "WikipediaW",
     "name": "wiki",
     "link": "https://wiki.mrlining.cn/"
   }
